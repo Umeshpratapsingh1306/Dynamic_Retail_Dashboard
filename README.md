@@ -70,3 +70,35 @@ Count of Order ID is correct as it counts orders.
 But for Profit Margin, you should write:
 "Calculated Profit Margin = (Total Profit / Total Sales) * 100" instead of "Sum of Profit Margin".
 
+Solution Description:
+
+1️⃣ Total Sales (₹12,642,502)
+Description:
+Total Sales represents the complete revenue generated from all customer purchases over the given period. This value shows the business’s overall ability to generate income by selling products to its customers. A higher total sales figure indicates a strong market demand and effective selling strategies.
+
+2️⃣ Total Profit (₹1,467,457)
+Description:
+Total Profit indicates how much money the company has earned after covering all costs associated with the products sold. It reflects the business's efficiency in managing costs and pricing products. A positive profit shows that the company is running successfully, whereas negative profit would indicate potential issues in pricing, costs, or sales.
+
+3️⃣ Total Quantity Sold (178,312 Units)
+Description:
+This metric shows the total number of product units sold to customers. It helps in understanding the scale of operations and product demand. A larger quantity sold reflects strong product acceptance and higher customer demand in the market.
+
+4️⃣ Number of Orders (51,290 Orders)
+Description:
+This value reflects the total number of individual purchase orders placed by customers. It is a useful indicator to measure order volume, customer activity, and engagement level. More orders typically imply greater customer reach and market penetration.
+
+5️⃣ Profit Margin (11.61%)
+Description:
+Profit Margin shows the percentage of revenue that remains as profit after all costs are deducted. It is a critical measure of how efficiently the company converts sales into actual profit. A healthy profit margin indicates good pricing strategies, cost control, and overall profitability of the business.
+
+Summary Table:
+| KPI            | Description                                                                                   | Value         |
+| -------------- | --------------------------------------------------------------------------------------------- | ------------- |
+| Total Sales    | Overall revenue earned from selling products to customers.                                    | ₹12,642,502   |
+| Total Profit   | Total money earned after covering the costs of goods sold.                                    | ₹1,467,457    |
+| Total Quantity | Total number of product units sold to customers.                                              | 178,312 Units |
+| No of Orders   | Total count of orders placed by customers.                                                    | 51,290 Orders |
+| Profit Margin  | Percentage of total sales that turned into profit, reflecting overall business profitability. | 11.61%        |
+
+
